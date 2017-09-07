@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504115898 source:c:\users\a147107\desktop\string play\stringss.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
